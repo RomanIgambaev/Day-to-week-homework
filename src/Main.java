@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        int day = 234;
+        int week = 7;
+        System.out.println("Прошло " + (234/7 + " полных дня"));
     }
 }
